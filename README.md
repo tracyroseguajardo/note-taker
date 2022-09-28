@@ -32,7 +32,7 @@ If you would like to contribute please feel free to reach out by email.
 
 ## Tests
 
-There is no testing available for this application currently.
+There are currently no tests written for this application.
 
 ## Questions
 
@@ -42,5 +42,5 @@ If you have further questions you may send me an email at: tracyroseguajardo@gma
 
 ## Visuals
 
-Link to deployed application:
-[Note Taker](https://tracyroseguajardo.github.io/note-taker/)
+Link to deployed application on Heroku:
+[Note Taker](https://stark-mountain-87784.herokuapp.com/)

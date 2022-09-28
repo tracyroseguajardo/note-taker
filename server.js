@@ -4,7 +4,7 @@ const htmlRoutes = require('./routes/html')
 const apiRoutes = require('./routes/api')
 
 //Create local host port
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3002;
 
 //Create express app
 const app = express();

@@ -44,3 +44,6 @@ If you have further questions you may send me an email at: tracyroseguajardo@gma
 
 Link to deployed application on Heroku:
 [Note Taker](https://stark-mountain-87784.herokuapp.com/)
+
+Screenshot of application:
+![Note Taker Screenshot](./assets/note-taker-screenshot.png)
